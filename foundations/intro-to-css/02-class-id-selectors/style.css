@@ -1,0 +1,19 @@
+.pone, .ptwo, .pthree {
+	background-color: pink;
+	color: black;
+	font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.ptwo {
+	font-size: 24px;
+}
+
+#one {
+	color: blue;
+	font-size: 36px;
+}
+
+#two {
+	background-color: hsl(120, 100%, 75%);
+	font-size: 24px;
+	font-weight: bold;
+}
